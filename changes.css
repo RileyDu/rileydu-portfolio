@@ -1,0 +1,7 @@
+.header-icons a {
+    margin-right: 10px;
+}
+
+.header-icons a:last-child {
+    margin-right: 0; 
+}
