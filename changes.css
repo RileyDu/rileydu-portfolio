@@ -5,3 +5,15 @@
 .header-icons a:last-child {
     margin-right: 0; 
 }
+
+.tech-icons {
+    font-size: 4em;
+}
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
